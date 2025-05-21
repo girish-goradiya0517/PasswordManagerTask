@@ -109,12 +109,3 @@
   <li>App launch is protected with biometric or PIN authentication</li>
   <li>No passwords are sent over the internet or stored in the cloud</li>
 </ul>
-
-<h2>🤝 Contributions</h2>
-
-<ul>
-  <li>Fork the repository</li>
-  <li>Create a new branch (e.g. <code>feature/your-feature</code>)</li>
-  <li>Commit your changes and push</li>
-  <li>Submit a Pull Request</li>
-</ul>
